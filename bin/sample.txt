@@ -1,0 +1,54 @@
+my %track;
+
+if ($data_line =~ s/(?:距離|distance).{0,5}?(\d+\.?\d?).{0,3}?(km|mile|miles|m|キロ|キロメートル|メートル|マイル)?//i ){
+	$track{'distance'} = &make_distance($1,$2);
+	print "data_line=" . $data_line . "\n\n";
+}
+if ($data_line =~ s/(\d)(?:時間|h|hour|:)([0-5][0-9])(?:分|m|min|:)?([0-5][0-9])?//i ){
+	$track{'time'} = &make_time1($1,$2,$3);
+	print "data_line=" . $data_line . "\n\n";
+} elsif ($data_line =~ s/(\d+\.?\d?)(時間|h|hour|分|min)//i ){
+	$track{'time'} = &make_time2($1,$2);
+	print "data_line=" . $data_line . "\n\n";
+}
+
+
+sub make_distance(){
+	my ($value, $unit) = @_;
+	my $distance = $value;
+	if ( $unit =~ /(mile|miles|マイル)/i ) {
+		$distance = $value * 1.609344;
+	} elsif ( $unit =~ /(m|メートル)/i ) {
+		$distance = $value * 1000;
+	}
+	print "value = " . $value . ", unit = " . $unit . ", distance = " . $distance . "\n";
+	return $distance;
+}
+
+sub make_time1(){
+	my ($hour, $min, $sec) = @_;
+	$min = 0 if (!defined $min);
+	$sec = 0 if (!defined $sec);
+	my $time = DateTime::Format::MySQL->format_time( 
+		DateTime->new( time_zone=>'local' ,
+			hour => $hour,
+			minute => $min,
+			second => $sec 
+		)
+	);
+	print "time = " . $time . "\n";
+	return $time;
+}
+
+sub make_time2(){
+	my ($value, $unit) = @_;
+	my $time;
+	if ( $unit =~ /(時間|h|hour)/i ) {
+		$time = DateTime::Format::MySQL->format_time( DateTime->new( hour => $value ) );
+	} elsif ( $unit =~ /(分|min)/i ) {
+		$time = DateTime::Format::MySQL->format_time( DateTime->new( minute => $value ) );
+	}
+	print "value = " . $value . ", unit = " . $unit . ", time = " . $time . "\n";
+	return $time;
+}
+

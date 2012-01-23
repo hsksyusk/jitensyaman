@@ -1,0 +1,99 @@
+昨日距離42.5km走った。1時間15分かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+yestarday, I runed 42 km. 1:45. Avg Speed 15km/h, Cadence 100rpm
+5/10, I Avg Speed 15km/h, runed 42.5 km. 1:45. Cadence 100rpm
+今日は6mile。平均スピード15km/h、最高スピード30km/h
+
+
+
+DISTANCE
+40km
+40KM
+40mile
+40miles
+40 km
+距離40km
+距離は40km
+距離は、40km
+距離40
+距離は40
+距離は、40
+走行距離40
+走行距離40
+distance 40km
+distance:40km
+40キロメートル
+40メートル
+40マイル
+42.195km
+40000m
+
+
+TIME
+90分
+1時間30分50秒
+1:45:00
+1:45
+8.5時間
+8.5h
+8h30m
+３時間
+三時間
+一時間半
+
+ELEVATION
+elevation 400m
+累積標高 400m
+獲得標高 400m
+標高50feet
+
+SPEED
+15km/h
+15m/h
+15miles/h
+時速15km
+時速15km/h
+speed 15km/h
+
+SPEEDMAX
+最高速度15km/h
+最高時速15km
+最高15km/h
+MAX15km/h
+
+
+CADENCE
+100rpm
+100 rpm
+ケイデンス100
+ケイデンス平均100
+ケイデンスは100
+ケイデンス:100rpm
+
+CADENCEMAX
+MAX100rpm
+MAXケイデンス100rpm
+MAXケイデンスは100rpm
+MAXケイデンス:100
+最高ケイデンス100rpm
+
+POWER
+パワー100W
+100W
+100ワット
+POWER 100
+
+POWERMAX
+MAX 100W
+MAX 100ワット
+最大 100W
+MAXPOWER 100W
+
+HEARTRATE
+100bpm
+心拍数100
+HR100
+
+HEARTRATEMAX
+最大100bpm
+MAXHR 100
+最大心拍数100

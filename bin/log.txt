@@ -1,0 +1,1049 @@
+timeline.pl start at 2011-05-27T19:56:24
+@jitensya_man 昨日42.5km走った。1時間15分かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+
+data_line=@jitensya_man 42.5km走った。1時間15分かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+
+time = 1.25
+data_line=@jitensya_man 42.5km走った。かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+
+
+value = 15, unit1 = mile, unit2 = /h, speed = 24.14016
+data_line=@jitensya_man 42.5km走った。かかった。Avg 、平均ケイデンスは100rpm。
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 42.5km走った。かかった。Avg 、平均。
+
+value = 42.5, unit = km, distance = 42.5
+data_line=@jitensya_man 走った。かかった。Avg 、平均。
+
+key:calorie : value:656.25
+key:distance : value:42.5
+key:cadence : value:100
+key:speed : value:24.14016
+key:time : value:1.25
+key:date : value:2011-05-26
+key:tweet : value:@jitensya_man 昨日42.5km走った。1時間15分かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+
+@jitensya_man 昨日42.5km走った。1時間15分かかった。Avg Speed 15mile/h、平均ケイデンスは100rpm。
+
+やあ @hsksyusk ！昨日はは42.5km走ったな！走行時間は1.2時間！平均速度は24.1km/h！そして、平均ケイデンスは100rpm！消費カロリーは656kcalだぞ！これで今月の走行距離は42kmだ！
+@jitensya_man yestarday, I runed 42 km. 1:45. Avg Speed 15km/h, Cadence 100rpm
+
+data_line=@jitensya_man , I runed 42 km. 1:45. Avg Speed 15km/h, Cadence 100rpm
+
+time = 1.75
+data_line=@jitensya_man , I runed 42 km. . Avg Speed 15km/h, Cadence 100rpm
+
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man , I runed 42 km. . Avg , Cadence 100rpm
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man , I runed 42 km. . Avg , 
+
+value = 42, unit = km, distance = 42
+data_line=@jitensya_man , I runed . . Avg , 
+
+key:calorie : value:367.5
+key:distance : value:42
+key:cadence : value:100
+key:speed : value:15
+key:time : value:1.75
+key:date : value:2011-05-26
+key:tweet : value:@jitensya_man yestarday, I runed 42 km. 1:45. Avg Speed 15km/h, Cadence 100rpm
+
+@jitensya_man yestarday, I runed 42 km. 1:45. Avg Speed 15km/h, Cadence 100rpm
+
+やあ @hsksyusk ！昨日はは42.0km走ったな！走行時間は1.8時間！平均速度は15.0km/h！そして、平均ケイデンスは100rpm！消費カロリーは367kcalだぞ！これで今月の走行距離は84kmだ！
+@jitensya_man 5/10, I Avg Speed 15km/h, runed 42.5 km. 1:45. Cadence 100rpm
+
+data_line=@jitensya_man , I Avg Speed 15km/h, runed 42.5 km. 1:45. Cadence 100rpm
+
+time = 1.75
+data_line=@jitensya_man , I Avg Speed 15km/h, runed 42.5 km. . Cadence 100rpm
+
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man , I Avg , runed 42.5 km. . Cadence 100rpm
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man , I Avg , runed 42.5 km. . 
+
+value = 42.5, unit = km, distance = 42.5
+data_line=@jitensya_man , I Avg , runed . . 
+
+key:calorie : value:367.5
+key:distance : value:42.5
+key:cadence : value:100
+key:speed : value:15
+key:time : value:1.75
+key:date : value:2011-05-10
+key:tweet : value:@jitensya_man 5/10, I Avg Speed 15km/h, runed 42.5 km. 1:45. Cadence 100rpm
+
+@jitensya_man 5/10, I Avg Speed 15km/h, runed 42.5 km. 1:45. Cadence 100rpm
+
+やあ @hsksyusk ！5/10はは42.5km走ったな！走行時間は1.8時間！平均速度は15.0km/h！そして、平均ケイデンスは100rpm！消費カロリーは367kcalだぞ！これで今月の走行距離は127kmだ！
+@jitensya_man 今日は6mile。平均スピード15km/h、最高スピード30km/h
+
+data_line=@jitensya_man は6mile。平均スピード15km/h、最高スピード30km/h
+
+value = 30, unit1 = km, unit2 = /h, speed = 30
+data_line=@jitensya_man は6mile。平均スピード15km/h、
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man は6mile。平均スピード、
+
+value = 6, unit = mile, distance = 9.656064
+data_line=@jitensya_man は。平均スピード、
+
+key:calorie : value:135.184896
+key:distance : value:9.656064
+key:time : value:0.6437376
+key:speed : value:15
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 今日は6mile。平均スピード15km/h、最高スピード30km/h
+
+key:speedmax : value:30
+@jitensya_man 今日は6mile。平均スピード15km/h、最高スピード30km/h
+
+やあ @hsksyusk ！今日はは9.7km走ったな！平均速度は15.0km/hだから、走行時間は0.6時間だな！そして、最高速度は30.0km/h！消費カロリーは135kcalだぞ！これで今月の走行距離は136kmだ！
+@jitensya_man 15km
+
+data_line=@jitensya_man 15km
+
+value = 15, unit = km, distance = 15
+data_line=@jitensya_man 
+
+key:calorie : value:210
+key:distance : value:15
+key:time : value:1
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 15km
+
+@jitensya_man 15km
+
+やあ @hsksyusk ！今日はは15.0km走ったな！走行時間はおおよそ1.0時間くらいだろう。そして！消費カロリーは210kcalだぞ！これで今月の走行距離は151kmだ！
+@jitensya_man 20km,1時間
+
+data_line=@jitensya_man 20km,1時間
+
+value = 1, unit = 時間, time = 1
+data_line=@jitensya_man 20km,
+
+value = 20, unit = km, distance = 20
+data_line=@jitensya_man ,
+
+key:calorie : value:420
+key:distance : value:20
+key:speed : value:20
+key:time : value:1
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 20km,1時間
+
+@jitensya_man 20km,1時間
+
+やあ @hsksyusk ！今日はは20.0km走ったな！走行時間は1.0時間！平均速度は20.0km/hになる。そして！消費カロリーは420kcalだぞ！これで今月の走行距離は171kmだ！
+@jitensya_man 1:30走った
+
+data_line=@jitensya_man 1:30走った
+
+time = 1.5
+data_line=@jitensya_man 走った
+
+
+key:calorie : value:315
+key:distance : value:22.5
+key:time : value:1.5
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 1:30走った
+
+@jitensya_man 1:30走った
+
+やあ @hsksyusk ！今日はは1.5時間走ったな！距離はおおよそ22.5kmくらいだろう。そして！消費カロリーは315kcalだぞ！これで今月の走行距離は194kmだ！
+@jitensya_man 20kmを10km/hで。
+
+data_line=@jitensya_man 20kmを10km/hで。
+
+value = 10, unit1 = km, unit2 = /h, speed = 10
+data_line=@jitensya_man 20kmをで。
+
+value = 20, unit = km, distance = 20
+data_line=@jitensya_man をで。
+
+key:calorie : value:420
+key:distance : value:20
+key:time : value:2
+key:speed : value:10
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 20kmを10km/hで。
+
+@jitensya_man 20kmを10km/hで。
+
+やあ @hsksyusk ！今日はは20.0km走ったな！平均速度は10.0km/hだから、走行時間は2.0時間だな！そして！消費カロリーは420kcalだぞ！これで今月の走行距離は214kmだ！
+@jitensya_man 時速8kmで40分走った。
+
+data_line=@jitensya_man 時速8kmで40分走った。
+
+value = 40, unit = 分, time = 0.666666666666667
+data_line=@jitensya_man 時速8kmで走った。
+
+value = 8, unit1 = km, unit2 = /h, speed = 8
+data_line=@jitensya_man で走った。
+
+key:calorie : value:140
+key:distance : value:5.33333333333333
+key:speed : value:8
+key:time : value:0.666666666666667
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 時速8kmで40分走った。
+
+@jitensya_man 時速8kmで40分走った。
+
+やあ @hsksyusk ！今日はは0.7時間走ったな！平均速度は8.0km/hだから、距離は5.3kmだな！そして！消費カロリーは140kcalだぞ！これで今月の走行距離は219kmだ！
+@jitensya_man 昨日40km、90分、elevation 400mで15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+data_line=@jitensya_man 40km、90分、elevation 400mで15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 90, unit = 分, time = 1.5
+data_line=@jitensya_man 40km、、elevation 400mで15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 40km、、で15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 40km、、で15km/h。、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 40km、、で。、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 40km、、で。、100rpm、、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 40km、、で。、、、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 40km、、で。、、、パワー100W、MAX 100W、100bpm、、消費カロリー200でした。
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 40km、、で。、、、パワー100W、MAX 100W、、、消費カロリー200でした。
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 40km、、で。、、、パワー100W、、、、消費カロリー200でした。
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 40km、、で。、、、、、、、消費カロリー200でした。
+
+value = 200, unit = , calorie = 200
+data_line=@jitensya_man 40km、、で。、、、、、、、消費でした。
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、で。、、、、、、、消費でした。
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:1.5
+key:date : value:2011-05-26
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 昨日40km、90分、elevation 400mで15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:heartratemax : value:100
+key:powermax : value:100
+key:cadence : value:100
+key:speed : value:15
+key:power : value:100
+@jitensya_man 昨日40km、90分、elevation 400mで15km/h。最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200でした。
+
+やあ @hsksyusk ！昨日はは40.0km走ったな！走行時間は1.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで今月の走行距離は259kmだ！
+@jitensya_man 昨日、40km、90分、elevation 400m、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+data_line=@jitensya_man 、40km、90分、elevation 400m、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 90, unit = 分, time = 1.5
+data_line=@jitensya_man 、40km、、elevation 400m、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、40km、、、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40km、、、15km/h、、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40km、、、、、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40km、、、、、100rpm、、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40km、、、、、、、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 、40km、、、、、、、パワー100W、MAX 100W、100bpm、、消費カロリー200
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 、40km、、、、、、、パワー100W、MAX 100W、、、消費カロリー200
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、40km、、、、、、、パワー100W、、、、消費カロリー200
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、40km、、、、、、、、、、、消費カロリー200
+
+value = 200, unit = , calorie = 200
+data_line=@jitensya_man 、40km、、、、、、、、、、、消費
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、、、、、、、、、、、消費
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:1.5
+key:date : value:2011-05-26
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 昨日、40km、90分、elevation 400m、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:15
+key:power : value:100
+@jitensya_man 昨日、40km、90分、elevation 400m、15km/h、最高速度15km/h、100rpm、MAX100rpm、パワー100W、MAX 100W、100bpm、最大100bpm、消費カロリー200
+
+やあ @hsksyusk ！昨日はは40.0km走ったな！走行時間は1.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで今月の走行距離は299kmだ！
+@jitensya_man おととい、40KM、1時間30分50秒、累積標高 400m、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+data_line=@jitensya_man 、40KM、1時間30分50秒、累積標高 400m、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+time = 1.51388888888889
+data_line=@jitensya_man 、40KM、秒、累積標高 400m、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、40KM、秒、累積、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40KM、秒、累積、15m/h、、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+value = 15, unit1 = m, unit2 = /h, speed = 0.015
+data_line=@jitensya_man 、40KM、秒、累積、、、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、100 rpm、、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、、、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、、、100W、MAX 100ワット、心拍数100、、calorie300
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、、、100W、MAX 100ワット、、、calorie300
+
+value = 100, unit = ワット, heartrate = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、、、100W、、、、calorie300
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、40KM、秒、累積、、、、、、、、、calorie300
+
+value = 300, unit = , calorie = 300
+data_line=@jitensya_man 、40KM、秒、累積、、、、、、、、、
+
+value = 40, unit = KM, distance = 40
+data_line=@jitensya_man 、、秒、累積、、、、、、、、、
+
+key:calorie : value:300
+key:distance : value:40
+key:elevation : value:400
+key:time : value:1.51388888888889
+key:date : value:2011-05-25
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man おととい、40KM、1時間30分50秒、累積標高 400m、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:0.015
+key:power : value:100
+@jitensya_man おととい、40KM、1時間30分50秒、累積標高 400m、15m/h、最高時速15km、100 rpm、MAXケイデンス100rpm、100W、MAX 100ワット、心拍数100、MAXHR 100、calorie300
+
+やあ @hsksyusk ！5/25はは40.0km走ったな！走行時間は1.5時間！平均速度は0.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは300kcalだぞ！これで今月の走行距離は339kmだ！
+@jitensya_man 一昨日、40mile、1:45:00、獲得標高 400m、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+data_line=@jitensya_man 、40mile、1:45:00、獲得標高 400m、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+time = 1.75
+data_line=@jitensya_man 、40mile、、獲得標高 400m、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、40mile、、獲得、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40mile、、獲得、15miles/h、、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+value = 15, unit1 = miles, unit2 = /h, speed = 24.14016
+data_line=@jitensya_man 、40mile、、獲得、、、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40mile、、獲得、、、ケイデンス100、、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、40mile、、獲得、、、、、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、40mile、、獲得、、、、、100ワット、最大 100W、HR100、、300カロリー
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、40mile、、獲得、、、、、100ワット、最大 100W、、、300カロリー
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、40mile、、獲得、、、、、100ワット、、、、300カロリー
+
+value = 100, unit = ワット, heartrate = 100
+data_line=@jitensya_man 、40mile、、獲得、、、、、、、、、300カロリー
+
+value = 300, unit = カロリー, calorie = 300
+data_line=@jitensya_man 、40mile、、獲得、、、、、、、、、
+
+value = 40, unit = mile, distance = 64.37376
+data_line=@jitensya_man 、、、獲得、、、、、、、、、
+
+key:calorie : value:300
+key:distance : value:64.37376
+key:elevation : value:400
+key:time : value:1.75
+key:date : value:2011-05-25
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 一昨日、40mile、1:45:00、獲得標高 400m、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:24.14016
+key:power : value:100
+@jitensya_man 一昨日、40mile、1:45:00、獲得標高 400m、15miles/h、最高15km/h、ケイデンス100、MAXケイデンスは100rpm、100ワット、最大 100W、HR100、最大心拍数100、300カロリー
+
+やあ @hsksyusk ！5/25はは64.4km走ったな！走行時間は1.8時間！平均速度は24.1km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは300kcalだぞ！これで今月の走行距離は403kmだ！
+@jitensya_man yestarday、40miles、1:45、標高50feet、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+data_line=@jitensya_man 、40miles、1:45、標高50feet、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+time = 1.75
+data_line=@jitensya_man 、40miles、、標高50feet、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+
+value = 50, unit = feet, elevation = 15.24
+data_line=@jitensya_man 、40miles、、、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40miles、、、時速15km、、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40miles、、、、、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、40miles、、、、、ケイデンス平均100、、POWER 100、MAXPOWER 100W、500cal
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、40miles、、、、、、、POWER 100、MAXPOWER 100W、500cal
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、40miles、、、、、、、POWER 100、、500cal
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、40miles、、、、、、、、、500cal
+
+value = 500, unit = cal, calorie = 500
+data_line=@jitensya_man 、40miles、、、、、、、、、
+
+value = 40, unit = mile, distance = 64.37376
+data_line=@jitensya_man 、s、、、、、、、、、
+
+key:calorie : value:500
+key:distance : value:64.37376
+key:elevation : value:15.24
+key:time : value:1.75
+key:date : value:2011-05-26
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man yestarday、40miles、1:45、標高50feet、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+key:speedmax : value:15
+key:powermax : value:100
+key:cadence : value:100
+key:speed : value:15
+key:power : value:100
+@jitensya_man yestarday、40miles、1:45、標高50feet、時速15km、MAX15km/h、ケイデンス平均100、MAXケイデンス:100、POWER 100、MAXPOWER 100W、500cal
+
+やあ @hsksyusk ！昨日はは64.4km走ったな！走行時間は1.8時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は15.2m！以下略！消費カロリーは500kcalだぞ！これで今月の走行距離は468kmだ！
+@jitensya_man 今日、40 km、8.5時間、elevation 400m、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+data_line=@jitensya_man 、40 km、8.5時間、elevation 400m、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+value = 8.5, unit = 時間, time = 8.5
+data_line=@jitensya_man 、40 km、、elevation 400m、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、40 km、、、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40 km、、、時速15km/h、、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、40 km、、、/h、、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、40 km、、、/h、、ケイデンスは100、、200kcal
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、40 km、、、/h、、、、200kcal
+
+value = 200, unit = kcal, calorie = 200
+data_line=@jitensya_man 、40 km、、、/h、、、、
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、、、/h、、、、
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:8.5
+key:date : value:2011-05-27
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 今日、40 km、8.5時間、elevation 400m、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+key:speedmax : value:15
+key:cadence : value:100
+key:speed : value:15
+@jitensya_man 今日、40 km、8.5時間、elevation 400m、時速15km/h、最高速度15km/h、ケイデンスは100、最高ケイデンス100rpm、200kcal
+
+やあ @hsksyusk ！今日はは40.0km走ったな！走行時間は8.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで今月の走行距離は508kmだ！
+@jitensya_man 2010/2/5、距離40km、8.5h、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+data_line=@jitensya_man 、距離40km、8.5h、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、8.5h、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 8.5, unit = h, time = 8.5
+data_line=@jitensya_man 、、、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、、、累積、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、累積、speed 15km/h、、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、累積、、、ケイデンス:100rpm、MAX 100W、200calorie
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、累積、、、、MAX 100W、200calorie
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、、、累積、、、、、200calorie
+
+value = 200, unit = cal, calorie = 200
+data_line=@jitensya_man 、、、累積、、、、、orie
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:8.5
+key:date : value:2010-02-05
+key:tweet : value:@jitensya_man 2010/2/5、距離40km、8.5h、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+key:speedmax : value:15
+key:powermax : value:100
+key:cadence : value:100
+key:speed : value:15
+@jitensya_man 2010/2/5、距離40km、8.5h、累積標高 400m、speed 15km/h、最高時速15km、ケイデンス:100rpm、MAX 100W、200calorie
+
+やあ @hsksyusk ！2/5はは40.0km走ったな！走行時間は8.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで10年2月の走行距離は548kmだ！
+@jitensya_man 2010/02/05、距離は40km、8h30m、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+data_line=@jitensya_man 、距離は40km、8h30m、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、8h30m、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+time = 8.5
+data_line=@jitensya_man 、、、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、、、獲得、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、獲得、15km/h、、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、獲得、、、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、獲得、、、100rpm、、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、獲得、、、、、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 、、、獲得、、、、、MAX 100ワット、、消費カロリー200kcal
+
+value = 100, unit = ワット, heartrate = 100
+data_line=@jitensya_man 、、、獲得、、、、、、、消費カロリー200kcal
+
+value = 200, unit = kcal, calorie = 200
+data_line=@jitensya_man 、、、獲得、、、、、、、消費
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:8.5
+key:date : value:2010-02-05
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 2010/02/05、距離は40km、8h30m、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:15
+@jitensya_man 2010/02/05、距離は40km、8h30m、獲得標高 400m、15km/h、最高15km/h、100rpm、MAX100rpm、MAX 100ワット、最大100bpm、消費カロリー200kcal
+
+やあ @hsksyusk ！2/5はは40.0km走ったな！走行時間は8.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで10年2月の走行距離は588kmだ！
+@jitensya_man 10/3/24、距離は、40km、3時間、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+data_line=@jitensya_man 、距離は、40km、3時間、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、3時間、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 3, unit = 時間, time = 3
+data_line=@jitensya_man 、、、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 50, unit = feet, elevation = 15.24
+data_line=@jitensya_man 、、、、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、、15m/h、、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 15, unit1 = m, unit2 = /h, speed = 0.015
+data_line=@jitensya_man 、、、、、、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、、、、100 rpm、、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、、、、、、パワー100W、最大 100W、100bpm、MAXHR 100
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、、、、、、、、パワー100W、最大 100W、100bpm、
+
+value = 100, unit = bpm, heartrate = 100
+data_line=@jitensya_man 、、、、、、、、パワー100W、最大 100W、、
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、、、、、、、、パワー100W、、、
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 、、、、、、、、、、、
+
+key:calorie : value:630
+key:distance : value:40
+key:elevation : value:15.24
+key:time : value:3
+key:date : value:2010-03-24
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 10/3/24、距離は、40km、3時間、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:0.015
+key:power : value:100
+@jitensya_man 10/3/24、距離は、40km、3時間、標高50feet、15m/h、MAX15km/h、100 rpm、MAXケイデンス100rpm、パワー100W、最大 100W、100bpm、MAXHR 100
+
+やあ @hsksyusk ！3/24はは40.0km走ったな！走行時間は3.0時間！平均速度は0.0km/h！そして、最高速度は15.0km/h、累積標高は15.2m！以下略！消費カロリーは630kcalだぞ！これで10年3月の走行距離は628kmだ！
+@jitensya_man 2010年4月5日、距離40、三時間、elevation 400m、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+data_line=@jitensya_man 日、距離40、三時間、elevation 400m、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 40, unit = , distance = 40
+data_line=@jitensya_man 日、、三時間、elevation 400m、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 日、、三時間、、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 日、、三時間、、15miles/h、、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 15, unit1 = miles, unit2 = /h, speed = 24.14016
+data_line=@jitensya_man 日、、三時間、、、、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 日、、三時間、、、、ケイデンス100、、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 日、、三時間、、、、、、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 日、、三時間、、、、、、100W、MAXPOWER 100W、心拍数100、
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 日、、三時間、、、、、、100W、MAXPOWER 100W、、
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 日、、三時間、、、、、、100W、、、
+
+value = 100, unit = W, heartrate = 100
+data_line=@jitensya_man 日、、三時間、、、、、、、、、
+
+key:calorie : value:869.919669132268
+key:distance : value:40
+key:time : value:1.65698984596622
+key:elevation : value:400
+key:date : value:2010-04-05
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 2010年4月5日、距離40、三時間、elevation 400m、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:powermax : value:100
+key:heartratemax : value:100
+key:cadence : value:100
+key:speed : value:24.14016
+key:power : value:100
+@jitensya_man 2010年4月5日、距離40、三時間、elevation 400m、15miles/h、最高速度15km/h、ケイデンス100、MAXケイデンスは100rpm、100W、MAXPOWER 100W、心拍数100、最大心拍数100
+
+やあ @hsksyusk ！4/5はは40.0km走ったな！平均速度は24.1km/hだから、走行時間は1.7時間だな！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは869kcalだぞ！これで10年4月の走行距離は668kmだ！
+@jitensya_man 4/5、距離は40、一時間半、累積標高 400m、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+data_line=@jitensya_man 、距離は40、一時間半、累積標高 400m、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+value = 40, unit = , distance = 40
+data_line=@jitensya_man 、、一時間半、累積標高 400m、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、、一時間半、累積、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、一時間半、累積、時速15km、、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、一時間半、累積、、、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、、一時間半、累積、、、ケイデンス平均100、、100ワット、HR100
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、、一時間半、累積、、、、、100ワット、HR100
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、、一時間半、累積、、、、、100ワット、
+
+value = 100, unit = ワット, heartrate = 100
+data_line=@jitensya_man 、、一時間半、累積、、、、、、
+
+key:calorie : value:560
+key:distance : value:40
+key:time : value:2.66666666666667
+key:elevation : value:400
+key:date : value:2011-04-05
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 4/5、距離は40、一時間半、累積標高 400m、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+key:heartrate : value:100
+key:speedmax : value:15
+key:cadence : value:100
+key:speed : value:15
+key:power : value:100
+@jitensya_man 4/5、距離は40、一時間半、累積標高 400m、時速15km、最高時速15km、ケイデンス平均100、MAXケイデンス:100、100ワット、HR100
+
+やあ @hsksyusk ！4/5はは40.0km走ったな！平均速度は15.0km/hだから、走行時間は2.7時間だな！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは560kcalだぞ！これで4月の走行距離は708kmだ！
+@jitensya_man 10/10、距離は、40、90分、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+data_line=@jitensya_man 、距離は、40、90分、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 40, unit = , distance = 40
+data_line=@jitensya_man 、、90分、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 90, unit = 分, time = 1.5
+data_line=@jitensya_man 、、、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 400, unit = m, elevation = 400
+data_line=@jitensya_man 、、、獲得、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、獲得、時速15km/h、、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、、、獲得、/h、、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、、、獲得、/h、、ケイデンスは100、、POWER 100、消費カロリー200
+
+value = 100, unit = , cadence = 100
+data_line=@jitensya_man 、、、獲得、/h、、、、POWER 100、消費カロリー200
+
+value = 100, unit = , heartrate = 100
+data_line=@jitensya_man 、、、獲得、/h、、、、、消費カロリー200
+
+value = 200, unit = , calorie = 200
+data_line=@jitensya_man 、、、獲得、/h、、、、、消費
+
+key:calorie : value:200
+key:distance : value:40
+key:elevation : value:400
+key:time : value:1.5
+key:date : value:2010-10-10
+key:cadencemax : value:100
+key:tweet : value:@jitensya_man 10/10、距離は、40、90分、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+key:speedmax : value:15
+key:cadence : value:100
+key:speed : value:15
+key:power : value:100
+@jitensya_man 10/10、距離は、40、90分、獲得標高 400m、時速15km/h、最高15km/h、ケイデンスは100、最高ケイデンス100rpm、POWER 100、消費カロリー200
+
+やあ @hsksyusk ！10/10はは40.0km走ったな！走行時間は1.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は400.0m！以下略！消費カロリーは200kcalだぞ！これで10年10月の走行距離は748kmだ！
+@jitensya_man 5/5、走行距離40、1時間30分50秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+data_line=@jitensya_man 、走行距離40、1時間30分50秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+value = 40, unit = , distance = 40
+data_line=@jitensya_man 、走行、1時間30分50秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+time = 1.51388888888889
+data_line=@jitensya_man 、走行、秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+
+value = 50, unit = feet, elevation = 15.24
+data_line=@jitensya_man 、走行、秒、、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、走行、秒、、speed 15km/h、、ケイデンス:100rpm、calorie300
+
+value = 15, unit1 = km, unit2 = /h, speed = 15
+data_line=@jitensya_man 、走行、秒、、、、ケイデンス:100rpm、calorie300
+
+value = 100, unit = rpm, cadence = 100
+data_line=@jitensya_man 、走行、秒、、、、、calorie300
+
+value = 300, unit = , calorie = 300
+data_line=@jitensya_man 、走行、秒、、、、、
+
+key:calorie : value:300
+key:distance : value:40
+key:elevation : value:15.24
+key:time : value:1.51388888888889
+key:date : value:2011-05-05
+key:tweet : value:@jitensya_man 5/5、走行距離40、1時間30分50秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+key:speedmax : value:15
+key:cadence : value:100
+key:speed : value:15
+@jitensya_man 5/5、走行距離40、1時間30分50秒、標高50feet、speed 15km/h、MAX15km/h、ケイデンス:100rpm、calorie300
+
+やあ @hsksyusk ！5/5はは40.0km走ったな！走行時間は1.5時間！平均速度は15.0km/h！そして、最高速度は15.0km/h、累積標高は15.2m！以下略！消費カロリーは300kcalだぞ！これで今月の走行距離は788kmだ！
+@jitensya_man 5/10、走行距離40、1:45:00、300カロリー
+
+data_line=@jitensya_man 、走行距離40、1:45:00、300カロリー
+
+value = 40, unit = , distance = 40
+data_line=@jitensya_man 、走行、1:45:00、300カロリー
+
+time = 1.75
+data_line=@jitensya_man 、走行、、300カロリー
+
+
+value = 300, unit = カロリー, calorie = 300
+data_line=@jitensya_man 、走行、、
+
+key:calorie : value:300
+key:distance : value:40
+key:time : value:1.75
+key:date : value:2011-05-10
+key:tweet : value:@jitensya_man 5/10、走行距離40、1:45:00、300カロリー
+
+key:speed : value:22.8571428571429
+@jitensya_man 5/10、走行距離40、1:45:00、300カロリー
+
+やあ @hsksyusk ！5/10はは40.0km走ったな！走行時間は1.8時間！平均速度は22.9km/hになる。そして！消費カロリーは300kcalだぞ！これで今月の走行距離は828kmだ！
+@jitensya_man 4月5日、distance 40km、1:45、500cal
+
+data_line=@jitensya_man 日、distance 40km、1:45、500cal
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 日、、1:45、500cal
+
+time = 1.75
+data_line=@jitensya_man 日、、、500cal
+
+
+value = 500, unit = cal, calorie = 500
+data_line=@jitensya_man 日、、、
+
+key:calorie : value:500
+key:distance : value:40
+key:time : value:1.75
+key:date : value:2011-04-05
+key:tweet : value:@jitensya_man 4月5日、distance 40km、1:45、500cal
+
+key:speed : value:22.8571428571429
+@jitensya_man 4月5日、distance 40km、1:45、500cal
+
+やあ @hsksyusk ！4/5はは40.0km走ったな！走行時間は1.8時間！平均速度は22.9km/hになる。そして！消費カロリーは500kcalだぞ！これで4月の走行距離は868kmだ！
+@jitensya_man 3日、distance:40km、8.5時間、200kcal
+
+data_line=@jitensya_man 、distance:40km、8.5時間、200kcal
+
+value = 40, unit = km, distance = 40
+data_line=@jitensya_man 、、8.5時間、200kcal
+
+value = 8.5, unit = 時間, time = 8.5
+data_line=@jitensya_man 、、、200kcal
+
+value = 200, unit = kcal, calorie = 200
+data_line=@jitensya_man 、、、
+
+key:calorie : value:200
+key:distance : value:40
+key:time : value:8.5
+key:date : value:2011-05-03
+key:tweet : value:@jitensya_man 3日、distance:40km、8.5時間、200kcal
+
+key:speed : value:4.70588235294118
+@jitensya_man 3日、distance:40km、8.5時間、200kcal
+
+やあ @hsksyusk ！5/3はは40.0km走ったな！走行時間は8.5時間！平均速度は4.7km/hになる。そして！消費カロリーは200kcalだぞ！これで今月の走行距離は908kmだ！
+@jitensya_man 05/12、40キロメートル、8.5h、200calorie
+
+data_line=@jitensya_man 、40キロメートル、8.5h、200calorie
+
+value = 8.5, unit = h, time = 8.5
+data_line=@jitensya_man 、40キロメートル、、200calorie
+
+value = 200, unit = cal, calorie = 200
+data_line=@jitensya_man 、40キロメートル、、orie
+
+value = 40, unit = キロ, distance = 40
+data_line=@jitensya_man 、メートル、、orie
+
+key:calorie : value:200
+key:distance : value:40
+key:time : value:8.5
+key:date : value:2011-05-12
+key:tweet : value:@jitensya_man 05/12、40キロメートル、8.5h、200calorie
+
+key:speed : value:4.70588235294118
+@jitensya_man 05/12、40キロメートル、8.5h、200calorie
+
+やあ @hsksyusk ！5/12はは40.0km走ったな！走行時間は8.5時間！平均速度は4.7km/hになる。そして！消費カロリーは200kcalだぞ！これで今月の走行距離は948kmだ！
+@jitensya_man 10/10、40メートル、8h30m、消費カロリー200kcal
+
+data_line=@jitensya_man 、40メートル、8h30m、消費カロリー200kcal
+
+time = 8.5
+data_line=@jitensya_man 、40メートル、、消費カロリー200kcal
+
+
+value = 200, unit = kcal, calorie = 200
+data_line=@jitensya_man 、40メートル、、消費
+
+value = 40, unit = メートル, distance = 0.04
+data_line=@jitensya_man 、、、消費
+
+key:calorie : value:200
+key:distance : value:0.04
+key:time : value:8.5
+key:date : value:2010-10-10
+key:tweet : value:@jitensya_man 10/10、40メートル、8h30m、消費カロリー200kcal
+
+key:speed : value:0.00470588235294118
+@jitensya_man 10/10、40メートル、8h30m、消費カロリー200kcal
+
+やあ @hsksyusk ！10/10はは0.0km走ったな！走行時間は8.5時間！平均速度は0.0km/hになる。そして！消費カロリーは200kcalだぞ！これで10年10月の走行距離は948kmだ！
+@jitensya_man 5/5、40マイル、3時間
+
+data_line=@jitensya_man 、40マイル、3時間
+
+value = 3, unit = 時間, time = 3
+data_line=@jitensya_man 、40マイル、
+
+value = 40, unit = マイル, distance = 64.37376
+data_line=@jitensya_man 、、
+
+key:calorie : value:1260
+key:distance : value:64.37376
+key:time : value:3
+key:date : value:2011-05-05
+key:tweet : value:@jitensya_man 5/5、40マイル、3時間
+
+key:speed : value:21.45792
+@jitensya_man 5/5、40マイル、3時間
+
+やあ @hsksyusk ！5/5はは64.4km走ったな！走行時間は3.0時間！平均速度は21.5km/hになる。そして！消費カロリーは1260kcalだぞ！これで今月の走行距離は1012kmだ！
+@jitensya_man 5/10、42.195km、三時間
+
+data_line=@jitensya_man 、42.195km、三時間
+
+value = 42.1, unit = km, distance = 42.1
+data_line=@jitensya_man 、、三時間
+
+key:calorie : value:589.4
+key:distance : value:42.1
+key:time : value:2.80666666666667
+key:date : value:2011-05-10
+key:tweet : value:@jitensya_man 5/10、42.195km、三時間
+
+@jitensya_man 5/10、42.195km、三時間
+
+やあ @hsksyusk ！5/10はは42.1km走ったな！走行時間はおおよそ2.8時間くらいだろう。そして！消費カロリーは589kcalだぞ！これで今月の走行距離は1054kmだ！
+@jitensya_man 4月5日、40000m、一時間半
+
+data_line=@jitensya_man 日、40000m、一時間半
+
+value = 40000, unit = m, distance = 40
+data_line=@jitensya_man 日、、一時間半
+
+key:calorie : value:560
+key:distance : value:40
+key:time : value:2.66666666666667
+key:date : value:2011-04-05
+key:tweet : value:@jitensya_man 4月5日、40000m、一時間半
+
+@jitensya_man 4月5日、40000m、一時間半
+
+やあ @hsksyusk ！4/5はは40.0km走ったな！走行時間はおおよそ2.7時間くらいだろう。そして！消費カロリーは560kcalだぞ！これで4月の走行距離は1094kmだ！
+@jitensya_man 4月5日
+
+data_line=@jitensya_man 日
+
+key:date : value:2011-04-05
+key:tweet : value:@jitensya_man 4月5日
+
+やあ @hsksyusk ！自転車マンだ！
+@jitensya_man やあ!
+
+data_line=@jitensya_man やあ!
+
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man やあ!
+
+やあ @hsksyusk ！自転車マンだ！
+@jitensya_man 
+data_line=@jitensya_man 
+key:date : value:2011-05-27
+key:tweet : value:@jitensya_man 
+やあ @hsksyusk ！自転車マンだ！
